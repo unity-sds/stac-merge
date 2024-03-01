@@ -1,0 +1,122 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "stac_version": "1.0.0",
+      "id": "urn:nasa:unity:unity:dev:SBG-L1B_PRE___1:SISTER_EMIT_L1B_RDN_20230810T034101_002",
+      "properties": {
+        "datetime": "2023-08-10T03:41:01Z",
+        "start_datetime": "2023-08-10T03:41:01Z",
+        "end_datetime": "2023-08-10T03:41:13Z",
+        "created": "2024-02-26T19:05:58.509323+00:00",
+        "updated": "2024-02-26T19:05:58.510829Z"
+      },
+      "geometry": null,
+      "links": [
+        {
+          "rel": "root",
+          "href": "./catalog.json",
+          "type": "application/json"
+        },
+        {
+          "rel": "parent",
+          "href": "./catalog.json",
+          "type": "application/json"
+        }
+      ],
+      "assets": {
+        "SISTER_EMIT_L1B_RDN_20230810T034101_001.png": {
+          "href": "s3://sps-dev-ds-storage/urn:nasa:unity:unity:dev:SBG-L1B_PRE___1/urn:nasa:unity:unity:dev:SBG-L1B_PRE___1:SISTER_EMIT_L1B_RDN_20230810T034101_001/SISTER_EMIT_L1B_RDN_20230810T034101_001.png",
+          "title": "image/png file",
+          "description": "",
+          "roles": [
+            "browse"
+          ]
+        },
+        "SISTER_EMIT_L1B_RDN_20230810T034101_001.met.json": {
+          "href": "s3://sps-dev-ds-storage/urn:nasa:unity:unity:dev:SBG-L1B_PRE___1/urn:nasa:unity:unity:dev:SBG-L1B_PRE___1:SISTER_EMIT_L1B_RDN_20230810T034101_001/SISTER_EMIT_L1B_RDN_20230810T034101_001.met.json",
+          "title": "None file",
+          "description": "",
+          "roles": [
+            "metadata"
+          ]
+        },
+        "SISTER_EMIT_L1B_RDN_20230810T034101_001_LOC.met.json": {
+          "href": "s3://sps-dev-ds-storage/urn:nasa:unity:unity:dev:SBG-L1B_PRE___1/urn:nasa:unity:unity:dev:SBG-L1B_PRE___1:SISTER_EMIT_L1B_RDN_20230810T034101_001/SISTER_EMIT_L1B_RDN_20230810T034101_001_LOC.met.json",
+          "title": "None file",
+          "description": "",
+          "roles": [
+            "metadata"
+          ]
+        },
+        "SISTER_EMIT_L1B_RDN_20230810T034101_001_OBS.met.json": {
+          "href": "s3://sps-dev-ds-storage/urn:nasa:unity:unity:dev:SBG-L1B_PRE___1/urn:nasa:unity:unity:dev:SBG-L1B_PRE___1:SISTER_EMIT_L1B_RDN_20230810T034101_001/SISTER_EMIT_L1B_RDN_20230810T034101_001_OBS.met.json",
+          "title": "None file",
+          "description": "",
+          "roles": [
+            "metadata"
+          ]
+        },
+        "SISTER_EMIT_L1B_RDN_20230810T034101_001_OBS.hdr": {
+          "href": "s3://sps-dev-ds-storage/urn:nasa:unity:unity:dev:SBG-L1B_PRE___1/urn:nasa:unity:unity:dev:SBG-L1B_PRE___1:SISTER_EMIT_L1B_RDN_20230810T034101_001/SISTER_EMIT_L1B_RDN_20230810T034101_001_OBS.hdr",
+          "title": "None file",
+          "description": "",
+          "roles": [
+            "metadata"
+          ]
+        },
+        "SISTER_EMIT_L1B_RDN_20230810T034101_001_OBS.bin": {
+          "href": "s3://sps-dev-ds-storage/urn:nasa:unity:unity:dev:SBG-L1B_PRE___1/urn:nasa:unity:unity:dev:SBG-L1B_PRE___1:SISTER_EMIT_L1B_RDN_20230810T034101_001/SISTER_EMIT_L1B_RDN_20230810T034101_001_OBS.bin",
+          "title": "binary file",
+          "description": "",
+          "roles": [
+            "data"
+          ]
+        },
+        "SISTER_EMIT_L1B_RDN_20230810T034101_001_LOC.hdr": {
+          "href": "s3://sps-dev-ds-storage/urn:nasa:unity:unity:dev:SBG-L1B_PRE___1/urn:nasa:unity:unity:dev:SBG-L1B_PRE___1:SISTER_EMIT_L1B_RDN_20230810T034101_001/SISTER_EMIT_L1B_RDN_20230810T034101_001_LOC.hdr",
+          "title": "None file",
+          "description": "",
+          "roles": [
+            "metadata"
+          ]
+        },
+        "SISTER_EMIT_L1B_RDN_20230810T034101_001_LOC.bin": {
+          "href": "s3://sps-dev-ds-storage/urn:nasa:unity:unity:dev:SBG-L1B_PRE___1/urn:nasa:unity:unity:dev:SBG-L1B_PRE___1:SISTER_EMIT_L1B_RDN_20230810T034101_001/SISTER_EMIT_L1B_RDN_20230810T034101_001_LOC.bin",
+          "title": "binary file",
+          "description": "",
+          "roles": [
+            "data"
+          ]
+        },
+        "SISTER_EMIT_L1B_RDN_20230810T034101_001.hdr": {
+          "href": "s3://sps-dev-ds-storage/urn:nasa:unity:unity:dev:SBG-L1B_PRE___1/urn:nasa:unity:unity:dev:SBG-L1B_PRE___1:SISTER_EMIT_L1B_RDN_20230810T034101_001/SISTER_EMIT_L1B_RDN_20230810T034101_001.hdr",
+          "title": "None file",
+          "description": "",
+          "roles": [
+            "metadata"
+          ]
+        },
+        "SISTER_EMIT_L1B_RDN_20230810T034101_001.bin": {
+          "href": "s3://sps-dev-ds-storage/urn:nasa:unity:unity:dev:SBG-L1B_PRE___1/urn:nasa:unity:unity:dev:SBG-L1B_PRE___1:SISTER_EMIT_L1B_RDN_20230810T034101_001/SISTER_EMIT_L1B_RDN_20230810T034101_001.bin",
+          "title": "binary file",
+          "description": "",
+          "roles": [
+            "data"
+          ]
+        },
+        "SISTER_EMIT_L1B_RDN_20230810T034101_001.json": {
+          "href": "s3://sps-dev-ds-storage/urn:nasa:unity:unity:dev:SBG-L1B_PRE___1/urn:nasa:unity:unity:dev:SBG-L1B_PRE___1:SISTER_EMIT_L1B_RDN_20230810T034101_001/SISTER_EMIT_L1B_RDN_20230810T034101_001.json",
+          "title": "text/json file",
+          "description": "",
+          "roles": [
+            "metadata"
+          ]
+        }
+      },
+      "stac_extensions": [],
+      "collection": "urn:nasa:unity:unity:dev:SBG-L1B_PRE___1"
+    }
+  ]
+}

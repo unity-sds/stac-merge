@@ -1,0 +1,6 @@
+input_files: 
+  - class: File
+    path: 'samples/c1/catalog.json'
+  - class: File
+    path: 'samples/c2/catalog.json'
+ 
